@@ -1,0 +1,14 @@
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\GlobalSupplyChainMfg_MarkupCompile.cache
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\GlobalSupplyChainMfg_MarkupCompile.lref
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\bin\Release\GlobalSupplyChainMfg.exe.config
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\bin\Release\GlobalSupplyChainMfg.exe
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\bin\Release\GlobalSupplyChainMfg.pdb
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\GlobalSupplyChainMfg.g.resources
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\GlobalSupplyChainMfg.Properties.Resources.resources
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\GlobalSupplyChainMfg.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\GlobalSupplyChainMfg.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\GlobalSupplyChainMfg.exe
+C:\Users\ADG\source\repos\GlobalSupplyChainMfg\GlobalSupplyChainMfg\obj\Release\GlobalSupplyChainMfg.pdb
