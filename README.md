@@ -6,3 +6,4 @@ Company confidential information is not displayed. All images are either custom 
 
 ![image](IntroductionSupplyChainMgmt.png)
 
+Additional details reference : https://github.com/alpaddesai/GlobalSupplyChainOperationsManagement
